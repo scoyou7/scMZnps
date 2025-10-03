@@ -1,6 +1,6 @@
 # In vivo differentiation of embryonic cells devoid of key reprogramming factors.
 
-[graphical draft-4.pdf](https://github.com/user-attachments/files/22684929/graphical.draft-4.pdf)
+<img width="1800" height="1800" alt="graphical-draft-4" src="https://github.com/user-attachments/assets/435cc1f2-422f-46f0-bd05-47f6125c6fd1" />
 
 This repository details the analyses presented in _In vivo differentiation of embryonic cells devoid of key reprogramming factors._ doi: 10.1101/2024.05.13.593729.
 
