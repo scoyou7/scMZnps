@@ -1,0 +1,38 @@
+Cluster,Germlayer,Annotation,Tissue,Gene_1,Gene_2,Notes,Confidence
+0,Undifferentiated,Embryonic cells (early),ESC_early,pou5f3,nanog,Based on position relative to time,High
+1,Ectoderm,Neural (early),Neural_early,sox19a,zic2b,,Med
+2,Mesoderm,Tailbud (late),Tailbud_late,tbx16,tbxta,,High
+3,Ectoderm,Neural (late),Neural_late,sox3,sox19a,Lots of cell division / DNA replication genes,High
+4,Epiderm,Epidermal,Epidermal,tp63,tfap2c,,Med
+5,Ectoderm,Eye,Eye,pax6b,rx3,,High
+6,Mesoderm,Axial mesoderm,Axial,myf5,msgn1,Lots of hox genes,High
+7,Ectoderm,Midbrain/Hindbrain boundary,Mid-Hindbrain_boundary,sox3,en2a/b,"Neural by sox3, MHB by engrailed expression",High
+8,Ectoderm,Radial glia,Radial_glia,sox3,her4.2,"Neural by sox3, her4.1/4.2/4.4 defines stem cell cycling state",Med
+9,Mesoderm,Somites,Somites,tcf15,ttn,Titin and muscle genes,High
+10,Ectoderm,Forebrain,Forebrain,fezf2,sox1b,,High
+11,Undifferentiated,Embryonic cells (late),ESC_late,pou5f3,sox19a,"Undifferentiated, expressing pou5f3 and sox19a",High
+12,Mesoderm,Paraxial mesoderm,Paraxial_mesoderm,hox genes (lots of em),,,High
+13,Ectoderm,Peripheral neurons,Peripheral_neurons,myt1a,myt1b,,High
+14,Ectoderm,Ectoderm,Ectoderm,gata3,foxi1,,Med
+15,Mesoderm,Fast muscle,Fast_muscle,mylpfa,myod1,Similar to 27 by TFs,High
+16,Neural Crest,Neural crest,Neural_crest,sox10,tfap2a,,High
+17,Epiderm,Epidermal (early),Epidermal_early,pitx3,dlx3b,,Med
+18,Ectoderm,Midbrain/Hindbrain boundary,Mid-Hindbrain_boundary,en2a/b,pcna,"Similar to cluster 7 (maybe overclustered??), also in close proximity to cluster 7",High
+19,Mesoderm,Pharyngeal arch,Pharyngeal_arch,prrx1a,foxc1a/b,,Med
+20,Mesoderm,Cardiac,Cardiac,hand2,gata5/6,,High
+21,Endoderm,Endoderm,Endoderm,sox32,sox17,,High
+22,Mesoderm,Haematopoietic,Haematopoietic,tal1,gata1a,,High
+23,Ectoderm,Hindbrain,Hindbrain,cldn5a,rps and rpl genes,"radial glia genes, neural progenitors",High
+24,Mesoderm,Notochord,Notochord,tbxta,noto,,High
+25,Extraembryonic,Enveloping layer,Enveloping layer,ovol1a,keratins,Isolated cluster present in early,High
+26,Ectoderm,Ependymal,Ependymal,foxj1a,nkx6.1,,High
+27,Mesoderm,Slow muscle,Slow_muscle,smyhc1,myod1,Similar to 15 by TFs,Med
+28,Mesoderm,Vascular,Vascular,etv2,fli1a/b,,High
+29,Endoderm,Prechordal plate,Prechordal_plate,gsc,foxa3,,High
+30,Mesoderm,Tailbud (early),Tailbud_early,tbx16,tbxta,,High
+31,Epiderm,Epidermal (late),Epidermal_late,krt4,krt8,,High
+32,Ectoderm,Motoneurons,Motoneurons,isl2b,isl1,also express pan neuronal elavl3,High
+33,Mesoderm,Cartilage,Cartilage,sox9b,sox10,,High
+34,Ectoderm,Pigmented eye epithelium,Pigmented_eye_epithelium,mitfa/foxd1,otx2a,,High
+35,PGCs,Germ cells,Germ_cells,nanos3,ddx4,,High
+36,Endoderm,Endodermal organ,Endodermal_organ,tfa,eepd1,,Med
